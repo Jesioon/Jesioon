@@ -4,10 +4,11 @@
 
 - 🌱 I’m currently learning Python of course with Django framework. I'm learning front-end stack too: HTML, CSS, JavaScript, Bootstrap. In future I want to improve my skills in that technologies and study ReactJS.
 
-- 💞️ I’m looking to collaborate on Web Applications with company where I could learn a lot of things. I like solve programming problems becouse it is really satisfying.
+- 💞️ I’m looking to collaborate on Web Applications with company where I could learn a lot of things. I like solving programming problems becouse it is really satisfying.
 
 - 📫 How to reach me - you can write to me:
 
 E-mail: piotrlbl40@gmail.com
+
 Discord: Jesioon #4680
 
